@@ -1,0 +1,17 @@
+# Customer_Churn_Project
+Predictive machine learning model built to identify customer churn and enable proactive retention strategies.  
+# Initialize the local directory as a Git repository
+git init
+
+# Add all the files to the staging area
+git add .
+
+# Commit your files
+git commit -m "Initial commit: Add complete Customer Churn Prediction project files"
+
+# Link your local repository to your GitHub repository (replace URL with your actual repo link)
+git remote add origin https://github.com/Shivam-Builds28/​customer-churn-prediction.git
+
+# Push the files to GitHub
+git branch -M main
+git push -u origin main
